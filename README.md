@@ -16,4 +16,4 @@ A simple quiz application built with React that allows users to answer multiple-
 
 ## Demo
 
-You can try the live demo of the Quiz App [here](https://your-demo-link.com).
+You can try the live demo of the Quiz App [here](https://bourkeba-react-quiz-app.netlify.app/).
